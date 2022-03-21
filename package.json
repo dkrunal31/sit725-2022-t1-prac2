@@ -1,0 +1,23 @@
+{
+  "name": "prac3",
+  "version": "1.0.0",
+  "description": "bootstraping express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkrunal31/Prac3_2.git"
+  },
+  "author": "Valeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkrunal31/Prac3_2/issues"
+  },
+  "homepage": "https://github.com/dkrunal31/Prac3_2#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "materialize": "^1.0.0"
+  }
+}
